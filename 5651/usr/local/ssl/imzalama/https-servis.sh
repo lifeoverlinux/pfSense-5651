@@ -1,12 +1,13 @@
 #!/bin/sh
 #ibrahim ucar
 #ucribrahim@gmail.com
+#lifeoverlinux.com
 
 #443 scriptini durdur.
 pid=$(ps -e | pgrep tcpdump)  
 echo $pid
 
-#interrupt it:  
+#durdur  
 kill -2 $pid
 
 sleep 1
