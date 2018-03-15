@@ -23,11 +23,11 @@ https://lifeoverlinux.com/pfsense-5651-kanuna-uygun-log-imzalama/
 
 ## Yazar Hakkında
 
-Yazar: İbrahim UÇAR
+**Yazar: İbrahim UÇAR**
 
-İlk Yayımlanma Tarih: 01.03.2018
+**İlk Yayımlanma Tarih: 01.03.2018**
 
-İletişim Bilgileri:
+**İletişim Bilgileri:**
 
 Mail : [ucribrahim@gmail.com](ucribrahim@gmail.com)
 
