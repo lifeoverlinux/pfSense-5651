@@ -29,7 +29,7 @@ Yazar: İbrahim UÇAR
 
 İletişim Bilgileri:
 
-ucribrahim@gmail.com
-twitter.com/ucribrahim
-lifeoverlinux.com
+[ucribrahim@gmail.com](ucribrahim@gmail.com)
+[twitter.com/ucribrahim](twitter.com/ucribrahim)
+[lifeoverlinux.com](https://lifeoverlinux.com)
 
