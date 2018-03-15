@@ -13,7 +13,7 @@ Teşekkürler.
 
 
 
-## pfSense 5651 Kurulumu
+### pfSense 5651 Kurulumu
 
 pfSense 5651 kurulumunu nasıl yapacağınızı öğrenmek isterseniz aşağıdaki yazmış olduğum blog yazısını okuyabilirsiniz.
 
@@ -21,7 +21,7 @@ https://lifeoverlinux.com/pfsense-5651-kanuna-uygun-log-imzalama/
 
 
 
-## Yazar Hakkında
+### Yazar Hakkında
 
 Yazar: İbrahim UÇAR
 
@@ -29,11 +29,11 @@ Yazar: İbrahim UÇAR
 
 İletişim Bilgileri;
 
-Mail :[ucribrahim@gmail.com](ucribrahim@gmail.com)
+Mail : [ucribrahim@gmail.com](ucribrahim@gmail.com)
 
-Twitter :[ucribrahim](twitter.com/ucribrahim)
+Twitter : [ucribrahim](twitter.com/ucribrahim)
 
-Web :[lifeoverlinux.com](https://lifeoverlinux.com)
+Web : [lifeoverlinux.com](https://lifeoverlinux.com)
 
-Slideshare :[ibrahimucar](https://www.slideshare.net/ibrahimucar39545464)
+Slideshare : [ibrahimucar](https://www.slideshare.net/ibrahimucar39545464)
 
