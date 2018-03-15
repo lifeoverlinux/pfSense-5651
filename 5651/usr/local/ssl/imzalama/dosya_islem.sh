@@ -1,6 +1,7 @@
 #!/bin/sh
 #ibrahim ucar
 #ucribrahim@gmail.com
+#lifeoverlinux.com
 
 DATE=`date "+%Y%m%d"`
 
