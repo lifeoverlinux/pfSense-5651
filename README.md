@@ -31,11 +31,11 @@ Yazar: İbrahim UÇAR
 
 Mail : [ucribrahim@gmail.com](ucribrahim@gmail.com)
 
-Twitter : [ucribrahim](twitter.com/ucribrahim)
+Twitter : [@ucribrahim](twitter.com/ucribrahim)
 
 Web : [lifeoverlinux.com](https://lifeoverlinux.com)
 
-Slideshare : [ibrahimucar](https://www.slideshare.net/ibrahimucar39545464)
+Slideshare : [@ibrahimucar](https://www.slideshare.net/ibrahimucar39545464)
 
 
 ## Lisans
