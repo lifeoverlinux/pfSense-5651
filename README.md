@@ -1,5 +1,4 @@
-# pfSense-5651
-pfSense 5651 Kanununa Uygun Log İmzalama
+# pfSense 5651 Kanununa Uygun Log İmzalama
 
 Merhabalar
 
