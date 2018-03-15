@@ -1,4 +1,4 @@
-## pfSense 5651 Kanuna Uygun Log İmzalama  :
+## pfSense 5651 Kanuna Uygun Log İmzalama  :penguin:
 
 Merhabalar
 
@@ -13,7 +13,7 @@ Teşekkürler.
 
 
 
-### pfSense 5651 Kurulumu
+## pfSense 5651 Kurulumu
 
 pfSense 5651 kurulumunu nasıl yapacağınızı öğrenmek isterseniz aşağıdaki yazmış olduğum blog yazısını okuyabilirsiniz.
 
@@ -21,7 +21,7 @@ https://lifeoverlinux.com/pfsense-5651-kanuna-uygun-log-imzalama/
 
 
 
-### Yazar Hakkında
+## Yazar Hakkında
 
 Yazar: İbrahim UÇAR
 
