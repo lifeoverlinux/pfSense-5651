@@ -1,6 +1,7 @@
 #!/bin/sh
 #ibrahim ucar
 #ucribrahim@gmail.com
+#lifeoverlinux.com
 
 HOST="192.168.101.143"
 USER="test"
