@@ -30,7 +30,10 @@ Yazar: İbrahim UÇAR
 İletişim Bilgileri:
 
 Mail : [ucribrahim@gmail.com](ucribrahim@gmail.com)
+
 Twitter : [ucribrahim](twitter.com/ucribrahim)
+
 Web : [lifeoverlinux.com](https://lifeoverlinux.com)
+
 Slideshare : [ibrahimucar](https://www.slideshare.net/ibrahimucar39545464)
 
