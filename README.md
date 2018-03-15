@@ -42,6 +42,6 @@ Slideshare : [@ibrahimucar](https://www.slideshare.net/ibrahimucar39545464)
 
 Bu proje **GNU General Public License v2.0** lisansı altında yayımlanmaktadır.
 
+
 ## Katkıda Bulunanlar
 
--
