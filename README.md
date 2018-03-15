@@ -29,9 +29,8 @@ Yazar: İbrahim UÇAR
 
 İletişim Bilgileri:
 
-[ucribrahim@gmail.com](ucribrahim@gmail.com)
-
-[twitter.com/ucribrahim](twitter.com/ucribrahim)
-
-[lifeoverlinux.com](https://lifeoverlinux.com)
+Mail : [ucribrahim@gmail.com](ucribrahim@gmail.com)
+Twitter : [ucribrahim](twitter.com/ucribrahim)
+Web : [lifeoverlinux.com](https://lifeoverlinux.com)
+Slideshare : [ibrahimucar](https://www.slideshare.net/ibrahimucar39545464)
 
