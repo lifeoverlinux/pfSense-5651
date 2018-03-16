@@ -3,7 +3,7 @@
 #ucribrahim@gmail.com
 #lifeoverlinux.com
 
-#443 scriptini durdur.
+#443 scriptini bul.
 pid=$(ps -e | pgrep tcpdump)  
 echo $pid
 
