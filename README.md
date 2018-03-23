@@ -47,4 +47,5 @@ Bu proje GNU General Public License v2.0 lisansı altında yayımlanmaktadır.
 ## Katkıda Bulunanlar
 
 Bekir Samet Şirinel
+Hüseyin Sezer - http://linuxalways.com/
 
