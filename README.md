@@ -48,5 +48,5 @@ Bu proje GNU General Public License v2.0 lisansı altında yayımlanmaktadır.
 
 Bekir Samet Şirinel
 
-Hüseyin Sezer - http://linuxalways.com/ - https://www.linkedin.com/in/h%C3%BCseyin-sezer-44428a111/
+Hüseyin Sezer - http://linuxalways.com/ - https://github.com/sezerhs - [Linkedin](https://www.linkedin.com/in/hüseyin-sezer-44428a111/)
 
