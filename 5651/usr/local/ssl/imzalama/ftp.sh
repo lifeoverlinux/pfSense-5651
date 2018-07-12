@@ -4,7 +4,7 @@
 #Site: https://lifeoverlinux.com
 
 HOST="ip_adresi"
-USER="kullanıcı_adı"
+USER="kullanıcı_adi"
 PASSWD="parola"
 
 #DATE
@@ -24,4 +24,3 @@ bye
 EOT
 
 done;
-
