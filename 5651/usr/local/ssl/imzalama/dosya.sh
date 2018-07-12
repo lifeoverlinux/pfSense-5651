@@ -14,14 +14,13 @@ if [ ! -d $WORK ]
         sleep 1
     fi
 
-for i in $(ls /var/imzali_kayitlar/ | cut -d'.' -f1);
+for i in $(ls /var/imzali_kayitlar/ | cut -d'.' -f1,2);
 do
 echo $i
-    cp -a /var/imzali_kayitlar/$i.log.$DATE* $WORK
+    cp -a /var/imzali_kayitlar/$i.$DATE* $WORK
 
 done;
 
 /usr/local/ssl/imzalama/ftp.sh
 
 rm -rf /calisma_dizini/*
-
